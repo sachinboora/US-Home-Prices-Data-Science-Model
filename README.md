@@ -10,7 +10,7 @@ The primary data source for this project is the S&P Case-Schiller Home Price Ind
 
 ## Notebooks
 
-- **US_Home_Prices_Analysis.ipynb:** Jupyter Notebook containing analysis and modeling code.
+- **Home_LLC_Project.ipynb:** Jupyter Notebook containing analysis and modeling code.
 
 ## Dependencies
 
