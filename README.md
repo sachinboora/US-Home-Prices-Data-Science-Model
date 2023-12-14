@@ -30,7 +30,7 @@ Install dependencies using: `pip install -r requirements.txt`
 1. Clone the repository: `git clone https://github.com/sachinboora/US-Home-Prices-Data-Science-Model.git`
 2. Navigate to the project directory: `cd US-Home-Prices-Data-Science-Model`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Open the Jupyter Notebook: `jupyter notebook US_Home_Prices_Analysis.ipynb`
+4. Open the Jupyter Notebook: `jupyter notebook Home_LLC_Project.ipynb`
 
 ## Author Information
 
